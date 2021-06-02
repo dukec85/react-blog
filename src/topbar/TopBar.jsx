@@ -4,10 +4,10 @@ export default function TopBar() {
     return (
         <div className="top">
             <div className="topLeft">
-            <i class="topIcon fab fa-facebook-square"></i>
-            <i class="topIcon fab fa-twitter"></i>
-            <i class="topIcon fab fa-pinterest"></i>
-            <i class="topIcon fab fa-instagram"></i>
+            <i className="topIcon fab fa-facebook-square"></i>
+            <i className="topIcon fab fa-twitter"></i>
+            <i className="topIcon fab fa-pinterest"></i>
+            <i className="topIcon fab fa-instagram"></i>
             </div>
             <div className="topCenter">
                 <ul className="topList">
@@ -21,7 +21,7 @@ export default function TopBar() {
             <div className="topRight">
                 <img
                 className="topImg"
-                src="https://sjme.de/v/man-seeking-woman-2x01-trailer_en.jpg"
+                src="https://indianapublicmedia.org/wpimages/amomentofscience/2019/05/Amazon-parrot.jpg"
                 alt=""
                 />
                 <i className="topSearchIcon fas fa-search"></i>
